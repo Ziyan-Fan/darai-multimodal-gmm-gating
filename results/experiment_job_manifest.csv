@@ -1,0 +1,3 @@
+experiment,description,job_id,notes,device_override
+# Fill one row per final experiment with Slurm job_id from sbatch output,,,,
+gmm_sensor_gate_main,Dynamic GMM gate training on fused IMU+BioMonitor control set,5060681,completed interactive slurm run,NVIDIA H200

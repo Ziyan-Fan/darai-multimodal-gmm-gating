@@ -1,0 +1,2 @@
+experiment,description,device,hours,started_at,ended_at,notes
+gmm_sensor_gate_main,Dynamic GMM gate training on fused IMU+BioMonitor control set,NVIDIA H200,0.207777777778,2026-04-24T11:02:05,Unknown,completed interactive slurm run; state=RUNNING

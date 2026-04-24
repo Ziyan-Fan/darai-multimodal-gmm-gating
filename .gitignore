@@ -1,0 +1,12 @@
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+.vscode/
+darai_raw_zips/
+pycache/
+results/*.pkl
+results/eval_df_for_audit.csv
+results/figures/
+tmp/
+venv/
